@@ -39,8 +39,17 @@ Open the project in Xcode.
 
 Build and run the app on your iOS device.
 
+### DEMO SCREEN SHOT
+
+
+![image](https://github.com/Kethineni25/SE20UARI081_176/assets/136446359/dbaf773a-3f3a-4609-95fc-98c697cdf6b7)
+
+
+
 ### Usage
 Launch the app and grant necessary permissions.
 Point your device's camera to a flat surface.
 Wait for virtual balloons to appear on the screen.
 Tap on a balloon to pop it.
+
+
